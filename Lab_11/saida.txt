@@ -1,0 +1,16 @@
+Bla bla bla
+Ble
+AUTORIZACOES DE POUSO
+=========================================
+FLIGHT  FROM
+
+1234    Amsterdam 
+0000    Nenhum aviao pousando
+8086    San Francisco
+0055    Paris
+4444    Londres
+
+Situacao da fila
+
+2552    Tokyo
+6161    Hong Kong

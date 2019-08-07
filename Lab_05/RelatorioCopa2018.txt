@@ -1,0 +1,171 @@
+
+			COPA DO MUNDO DE 2018
+--------------------------------------------------------------------------
+
+				GRUPO A 
+Resultado Jogos 
+	Russia         0x2 Arabia Saudita
+	Egito          0x0        Uruguai
+	Russia         0x0          Egito
+	Arabia Saudita 1x0        Uruguai
+	Russia         0x0        Uruguai
+	Arabia Saudita 1x0          Egito
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Russia              |       2|       0|       2|       0|       2|      -2
+Arabia Saudita      |       9|       3|       0|       4|       0|       4
+Egito               |       2|       0|       2|       0|       1|      -1
+Uruguai             |       2|       0|       2|       0|       1|      -1
+
+	Primeiro colocado:  Arabia Saudita 
+	Segundo colocado:   Egito 
+
+--------------------------------------------------------------------------
+
+				GRUPO B 
+Resultado Jogos 
+	Portugal       0x3        Espanha
+	Marrocos       1x2            Ira
+	Portugal       3x2       Marrocos
+	Espanha        4x2            Ira
+	Portugal       3x2            Ira
+	Espanha        4x2       Marrocos
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Portugal            |       6|       2|       0|       6|       7|      -1
+Espanha             |       9|       3|       0|      11|       4|       7
+Marrocos            |       0|       0|       0|       5|       9|      -4
+Ira                 |       3|       1|       0|       6|       8|      -2
+
+	Primeiro colocado:  Espanha 
+	Segundo colocado:   Portugal 
+
+--------------------------------------------------------------------------
+
+				GRUPO C 
+Resultado Jogos 
+	Franca         0x0      Australia
+	Peru           1x0      Dinamarca
+	Franca         3x0           Peru
+	Australia      1x0      Dinamarca
+	Franca         1x0      Dinamarca
+	Australia      0x0           Peru
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Franca              |       7|       2|       1|       4|       0|       4
+Australia           |       5|       1|       2|       1|       0|       1
+Peru                |       4|       1|       1|       1|       3|      -2
+Dinamarca           |       0|       0|       0|       0|       3|      -3
+
+	Primeiro colocado:  Franca 
+	Segundo colocado:   Australia 
+
+--------------------------------------------------------------------------
+
+				GRUPO D 
+Resultado Jogos 
+	Argentina      0x0       Islandia
+	Croacia        0x0        Nigeria
+	Argentina      0x0        Croacia
+	Islandia       0x0        Nigeria
+	Argentina      3x3        Nigeria
+	Islandia       0x0        Croacia
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Argentina           |       3|       0|       3|       3|       3|       0
+Islandia            |       3|       0|       3|       0|       0|       0
+Croacia             |       3|       0|       3|       0|       0|       0
+Nigeria             |       3|       0|       3|       3|       3|       0
+
+	Primeiro colocado:  Argentina 
+	Segundo colocado:   Nigeria 
+
+--------------------------------------------------------------------------
+
+				GRUPO E 
+Resultado Jogos 
+	Brasil         0x2          Suica
+	Costa Rica     1x0         Servia
+	Brasil         3x2     Costa Rica
+	Suica          1x0         Servia
+	Brasil         4x0         Servia
+	Suica          1x2     Costa Rica
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Brasil              |       6|       2|       0|       7|       4|       3
+Suica               |       6|       2|       0|       4|       2|       2
+Costa Rica          |       6|       2|       0|       5|       4|       1
+Servia              |       0|       0|       0|       0|       6|      -6
+
+	Primeiro colocado:  Brasil 
+	Segundo colocado:   Suica 
+
+--------------------------------------------------------------------------
+
+				GRUPO F 
+Resultado Jogos 
+	Alemanha       0x0         Mexico
+	Suecia         0x2  Coreia do Sul
+	Alemanha       0x0         Suecia
+	Mexico         0x2  Coreia do Sul
+	Alemanha       3x2  Coreia do Sul
+	Mexico         0x0         Suecia
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Alemanha            |       5|       1|       2|       3|       2|       1
+Mexico              |       2|       0|       2|       0|       2|      -2
+Suecia              |       2|       0|       2|       0|       2|      -2
+Coreia do Sul       |       6|       2|       0|       6|       3|       3
+
+	Primeiro colocado:  Coreia do Sul 
+	Segundo colocado:   Alemanha 
+
+--------------------------------------------------------------------------
+
+				GRUPO G 
+Resultado Jogos 
+	Belgica        3x2         Panama
+	Tunisia        1x0     Inglaterra
+	Belgica        3x2        Tunisia
+	Panama         1x0     Inglaterra
+	Belgica        0x0     Inglaterra
+	Panama         1x2        Tunisia
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Belgica             |       7|       2|       1|       6|       4|       2
+Panama              |       3|       1|       0|       4|       5|      -1
+Tunisia             |       6|       2|       0|       5|       4|       1
+Inglaterra          |       1|       0|       1|       0|       2|      -2
+
+	Primeiro colocado:  Belgica 
+	Segundo colocado:   Tunisia 
+
+--------------------------------------------------------------------------
+
+				GRUPO H 
+Resultado Jogos 
+	Polonia        3x0        Senegal
+	Colombia       0x0          Japao
+	Polonia        3x0       Colombia
+	Senegal        0x0          Japao
+	Polonia        3x0          Japao
+	Senegal        0x0       Colombia
+
+Selecao             |  Pontos|Vitorias| Empates| GolsPro| GolsCon|SaldGols
+--------------------|--------|--------|--------|--------|--------|--------
+Polonia             |       9|       3|       0|       9|       0|       9
+Senegal             |       2|       0|       2|       0|       3|      -3
+Colombia            |       2|       0|       2|       0|       3|      -3
+Japao               |       2|       0|       2|       0|       3|      -3
+
+	Primeiro colocado:  Polonia 
+	Segundo colocado:   Colombia 
+
+--------------------------------------------------------------------------
